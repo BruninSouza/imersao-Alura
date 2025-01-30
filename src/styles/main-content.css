@@ -91,3 +91,27 @@ cursor: pointer;
     font-weight: 700;
     border-radius: 40px;
 }
+
+.explorar{
+    background-color: #121212;
+    color:#fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 16px;
+    margin: 10px;
+    border-radius: 8px;
+    padding: 12px;
+}
+
+.explorar .titulo{
+    font-weight: 700;
+    font-size:30px;
+    padding: 20px 10px ;
+}
+
+.explorar .subtitulo{
+    font-weight: 700;
+    font-size:20px;
+    padding: 20px 10px;
+}
