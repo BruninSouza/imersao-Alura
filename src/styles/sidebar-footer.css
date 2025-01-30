@@ -2,11 +2,6 @@ body{
     background-color: #000;
     font-family: var(--font-dm-sans);
 }
-
-h1{
-    background-color: #fff;
-}
-
 .sidebar{
     position: fixed;
     top: 0;
