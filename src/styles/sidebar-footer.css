@@ -77,6 +77,7 @@ body{
     padding: 20px 10px;
 }
 
+
 .library .library__button .fa{
     font-size: 20px;
     margin-right: 10px;
@@ -137,6 +138,12 @@ body{
     width: 113px;
 }
 
+.section-playlist__content .section-playlist__button :hover {
+    transform: scale(1.04);
+    cursor: pointer;
+}
+
+
 .sidebar .cookies{
     margin: 25px 20px;
 }
@@ -163,6 +170,11 @@ body{
     margin: 8px;
     padding: 8px;
     border-radius: 20px;
+}
+
+.lenguages .lenguages__button:hover{
+    transform: scale(1.04);
+    cursor: pointer;
 }
 
 .disclaimer-premium{
@@ -205,3 +217,9 @@ body{
     cursor: pointer;
     flex-shrink: 0;
 }
+
+.disclaimer-premium button:hover{
+    transform: scale(1.04);
+    cursor: pointer;
+}
+
